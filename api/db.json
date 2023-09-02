@@ -1,0 +1,16 @@
+{
+    "produto": [
+        {
+            "id": 1,
+            "name": "Hamburguer",
+            "imagePath": "./public_folder/images/hamburger.png",
+            "price": 25
+        },
+        {
+            "id": 2,
+            "name": "Pancake",
+            "imagePath": "./public_folder/images/pancakes.png",
+            "price": 12
+        }
+    ]
+}
